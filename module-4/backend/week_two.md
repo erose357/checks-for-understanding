@@ -6,11 +6,11 @@ Note: When you're done, submit a PR.
 
 1. What's one difference between ES5 and ES6?  
 
-   string interpolation: `'' + ''` vs. `` `${}` ``  
+   string interpolation: `'' + ''` vs. `` `${}` ``  
    
 2. What's the difference between asynchronous and synchronous JavaScript?  
 
-   JS runs synchronously through a call stack, but certain methods utilize APIs built into the browser to allow operations that may block the stack to be removed and completed outside the call stack then reinserted once the call stack is clear of other operations.  
+   JS runs synchronously through a call stack, but certain methods utilize APIs built into the browser to allow operations that may block the stack to be removed and completed outside the call stack then reinserted once the call stack is clear of other operations.  
    
 3. What are the four pillars of Object Oriented programming?  
 
@@ -18,7 +18,7 @@ Note: When you're done, submit a PR.
    
 4. What are some tools available in JavaScript to help you write object oriented code?  
 
-   Constructor functions allow you to utilize a class structure  
+   Constructor functions allow you to utilize a class structure  
    
 5. What are some key concepts to be aware of when refactoring your JavaScript?  
 
