@@ -49,11 +49,11 @@ Note: When you're done, submit a PR.
    
 11. Describe a RESTful API.  
 
-   An API that follows the constraints of RESTful architecture.  I don't know how else to elaborate on this because I don't fully understand REST, I know that it's not necessarily tied to HTTP, although it can be used.  
+   An API that follows the constraints of RESTful architecture.  I don't know how else to elaborate on this because I don't fully understand REST, I know that it's not necessarily tied to HTTP, although it can be used.  There seems to be a need for consistency in documentation and usage of the site.    
    
 12. What are some main characteristics of a team following an agile workflow?  
 
-  Team plans out work to be done in advance and works in time period cycles called iterations.  There are regular checkin-ins, as a group, so everyone stays coordinated and can get the help they need.  The goal is to build a functional product quickly with regular feedback from stakeholders and the customer so changes can be implemented more smoothly.  
+   Team plans out work to be done in advance and works in time period cycles called iterations.  There are regular checkin-ins, as a group, so everyone stays coordinated and can get the help they need.  The goal is to build a functional product quickly with regular feedback from stakeholders and the customer so changes can be implemented more smoothly.  
   
   
 13. What are some advantages **and** disadvantages to using OAuth to authenticate a user?  
